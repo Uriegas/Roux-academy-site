@@ -2,7 +2,7 @@
     $bd = 'roux_academy';
     $servidor = 'localhost';
     $usuario = 'root';
-    $contrasena = 'Jholacomo1';
+    $contrasena = 'h01gkBRD$iMj8w1z2JBiXnYu';
     $conexion = mysqli_connect($servidor, $usuario, $contrasena, $bd);
 
     function valida_usuario_bd($usuario, $contrasena, $conexion) {
