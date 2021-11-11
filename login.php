@@ -27,10 +27,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="css/style.css">
-
 </head>
+<?php
+  include "includes/header.php";
+?>
 <body>
-
 <body id="page_home">
 <div class="wrapper">
   <div id="rotator"><img src="images/art01.jpg" width="1000" height="320" alt="Artwork from show"></div>
