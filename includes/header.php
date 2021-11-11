@@ -13,6 +13,7 @@
         <li><a href="artists.php">ARTISTS</a></li>
         <li><a href="schedule/index.php">SCHEDULE</a></li>
         <li><a href="venue.php">VENUE/TRAVEL</a></li>
+        <li><a href="attendees.php">ATTENDEES</a></li>
         <li><a href="login.php">LOG OUT</a></li>
       </ol>
     </nav>
